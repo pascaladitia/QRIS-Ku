@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">QRIS-Ku</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="home">Home</string>
+    <string name="statistics">Statistics</string>
+    <string name="transactions">Transactions</string>
+    <string name="profile">Profile</string>
+    <string name="hi">Hi, Pascal</string>
+    <string name="selamat_datang">Selamat datang kembali</string>
+    <string name="saldo">Total saldo kamu:</string>
+    <string name="rp_0">Rp.0</string>
+    <string name="top_up">Top Up</string>
+    <string name="transfer">Transfer</string>
+    <string name="riwayat_transaksi">Riwayat Transaksi</string>
+    <string name="lihat_semua">Lihat Semua</string>
+    <string name="scan">Scan QR Code</string>
+    <string name="bayar_sekarang">Bayar Sekarang</string>
+</resources>

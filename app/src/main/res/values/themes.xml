@@ -1,0 +1,77 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+    <style name="Base.Theme.QRISKu" parent="Theme.Material3.DayNight">
+        <!-- Customize your light theme here. -->
+        <item name="colorPrimary">@color/orange</item>
+        <item name="colorAccent">@color/blue</item>
+        <item name="colorPrimaryDark">@color/orange_dark</item>
+
+    </style>
+
+    <style name="Theme.QRISKu" parent="Base.Theme.QRISKu" />
+
+    <style name="text_title">
+        <item name="android:textSize">28sp</item>
+        <item name="android:textColor">@color/black70</item>
+        <item name="fontFamily">@font/inter_bold</item>
+    </style>
+
+    <style name="text_title2">
+        <item name="android:textSize">24sp</item>
+        <item name="android:textColor">@color/black70</item>
+        <item name="fontFamily">@font/inter_bold</item>
+    </style>
+
+    <style name="text_title3">
+        <item name="android:textSize">18sp</item>
+        <item name="android:textColor">@color/black70</item>
+        <item name="fontFamily">@font/inter_bold</item>
+    </style>
+
+    <style name="text_title4">
+        <item name="android:textSize">16sp</item>
+        <item name="android:textColor">@color/black70</item>
+        <item name="fontFamily">@font/inter_bold</item>
+    </style>
+
+
+    <style name="text_content">
+        <item name="android:textSize">24sp</item>
+        <item name="android:textColor">@color/black70</item>
+        <item name="fontFamily">@font/inter_medium</item>
+    </style>
+
+    <style name="text_content2">
+        <item name="android:textSize">18sp</item>
+        <item name="android:textColor">@color/black70</item>
+        <item name="fontFamily">@font/inter_medium</item>
+    </style>
+
+    <style name="text_content3">
+        <item name="android:textSize">14sp</item>
+        <item name="android:textColor">@color/black70</item>
+        <item name="fontFamily">@font/inter_medium</item>
+    </style>
+
+    <style name="text_subContent">
+        <item name="android:textSize">16sp</item>
+        <item name="android:textColor">@color/black70</item>
+        <item name="fontFamily">@font/inter_regular</item>
+    </style>
+
+    <style name="text_subContent2">
+        <item name="android:textSize">12sp</item>
+        <item name="android:textColor">@color/black70</item>
+        <item name="fontFamily">@font/inter_bold</item>
+    </style>
+
+    <style name="text_subContent3">
+        <item name="android:textSize">12sp</item>
+        <item name="fontFamily">@font/inter_regular</item>
+    </style>
+
+    <style name="text_subContent4">
+        <item name="android:textSize">10sp</item>
+        <item name="fontFamily">@font/inter_regular</item>
+    </style>
+</resources>
